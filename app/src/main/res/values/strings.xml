@@ -12,7 +12,7 @@
 -->
 <resources>
     <!-- Name for the application [CHAR LIMIT=12] -->
-    <string name="app_name">Pets</string>
+    <string name="app_name">myPets</string>
 
     <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
     <string name="action_insert_dummy_data">Insert Dummy Data</string>
@@ -66,4 +66,7 @@
     <string name="require_breed">Pet requires breed</string>
     <string name="require_weight">Pet requires weight</string>
     <string name="gender_illegal">Pet gender is illegal</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
 </resources>
