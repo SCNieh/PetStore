@@ -2,7 +2,12 @@ Pets App
 ===================================
 
 This app displays a list of pets and their related data that the user inputs.
+
+Based on SQLite, this app implements all CRUD methods.
+
 Used in a Udacity course in the Android Basics Nanodegree by Google.
+
+- This app was modified based on one of the prototypes of Udacity nanodegree course
 
 Pre-requisites
 --------------
